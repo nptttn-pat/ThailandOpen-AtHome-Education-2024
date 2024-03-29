@@ -5,7 +5,7 @@
 |   Time              |     Topics                                  |
 |:-------------------:|:-------------------------------------------:|
 |    08:30 - 10:30    |     Test slot                               |
-|    10:30 - 11:00    |     Open ceremony                           |
+|    10:30 - 11:00    |     Openning ceremony                       |
 |    11:00 - 12:30    |     Carry my luggage - trial 1              |
 |    12:30 - 14:00    |     Lunch break & Test slot                 |
 |    14:00 - 15:30    |     Carry my luggage - trial 2              |
