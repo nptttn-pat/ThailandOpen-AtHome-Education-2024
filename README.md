@@ -1,4 +1,4 @@
-# ThailandOpen-AtHome-Edu-2024
+# Thailand Open AtHome Education 2024
 
 [2024 - Rules Book](./rules/rules_book.pdf)
 
