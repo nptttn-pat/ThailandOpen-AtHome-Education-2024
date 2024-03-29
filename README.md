@@ -2,7 +2,7 @@
 
 # Schedule
 - [Day1 - Sat 30 Mar 2024](./schedules/competition_day1.md)
-- [Day2 - Sun 31 Mar 2024]()
+- [Day2 - Sun 31 Mar 2024](./schedules/competition_day2.md)
 
 # Task
 - [Carry my luggage](tasks/carry_my_luggage.md)
