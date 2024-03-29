@@ -19,3 +19,4 @@
 
 ## Map
    ![map](./img/map.jpg)
+   ![fmm-map](./img/fmm_map.png)
