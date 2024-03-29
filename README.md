@@ -1,6 +1,10 @@
-# ThailandOpen-AtHome-Edu-2024
+# Thailand Open AtHome Education 2024
 
 [2024 - Rules Book](./rules/rules_book.pdf)
+
+# Score
+- [Overall](./score/overall.md)
+- [Ranking](./score/ranking.md)
 
 # Schedule
 - [Day1 - Sat 30 Mar 2024](./schedules/competition_day1.md)
