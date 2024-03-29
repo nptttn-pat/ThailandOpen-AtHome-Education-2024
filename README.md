@@ -1,8 +1,8 @@
 # ThailandOpen-AtHome-Edu-2024
 
 # Schedule
-- [Day1](./schedules/competition_day1.md)
-- [Day2]()
+- [Day1 - Sat 30 Mar 2024](./schedules/competition_day1.md)
+- [Day2 - Sun 31 Mar 2024]()
 
 # Task
 - [Carry my luggage](tasks/carry_my_luggage.md)
