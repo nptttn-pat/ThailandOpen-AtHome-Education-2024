@@ -33,7 +33,7 @@
 |   No.     |      Team name                                        |    
 |:---------:|:------------------------------------------------------|   
 |   1       |   ~~Robomaniac~~                                          |
-|   2       |   404 Not Found                                       |
+|   2       |   404 Not Found (PASSED)                                       |
 |   3       |   SEA                                                 |
 |   4       |   SKUBA JR.                                           |
 |   5       |   CLEANING IN PROGRESS                                |
