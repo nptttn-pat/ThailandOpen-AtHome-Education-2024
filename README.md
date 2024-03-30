@@ -3,6 +3,7 @@
 [2024 - Rules Book](./rules/rules_book.pdf)
 
 # Score
+- [Score sheet](./score/score-sheet.pdf)
 - [Carry my luggage](./score/cml.md)
 - [Find my mate](./score/fmm.md)
 - [Overall](./score/overall.md)
