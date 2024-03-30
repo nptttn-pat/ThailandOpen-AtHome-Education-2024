@@ -2,6 +2,8 @@
 
 <em> * Team name with strikethrough (~~team_name~~) is mean that they waive their slot </em>
 
+<em> * Team name with ✅ is mean that they use their slot </em>
+
 ## Time table
 
 |   Time              |     Topics                                  |
