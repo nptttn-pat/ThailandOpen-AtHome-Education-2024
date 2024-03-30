@@ -39,7 +39,7 @@
 |   5       |   CLEANING IN PROGRESS                                |
 |   6       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
 |   7       |  ~~LOSSY~~                                                | 
-|   8       | นกคุ้มหลี                                                |  
+|   8       | นกคุ้มหลี (PASSED)                                                  |  
 
 ## Trial 3 [17:00 - 18:30]
 
