@@ -2,6 +2,8 @@
 
 <em> * Team name with strikethrough (~~team_name~~) is mean that they waive their slot </em>
 
+<em> * Team name with ✅ is mean that they use their slot </em>
+
 ## Time table
 
 |   Time              |     Topics                                  |
@@ -20,13 +22,13 @@
 
 |   No.     |      Team name                                        |    
 |:---------:|:------------------------------------------------------|   
-|   1       |    นกคุ้มหลี (PASSED)                                            |  
+|   1       |    นกคุ้มหลี ✅                                            |  
 |   2       |    ~~LOSSY~~                                              | 
 |   3       |  ~~ขี้เกียจทำงานบ้าน Lazy to do house work Team~~            |
 |   4       |   ~~CLEANING IN PROGRESS~~                                |
-|   5       |   SKUBA JR. (PASSED)                                  |
-|   6       |   SEA (PASSED)                                                |
-|   7       |   404 Not Found  (PASSED)                                     |
+|   5       |   SKUBA JR. ✅                                  |
+|   6       |   SEA ✅                                                |
+|   7       |   404 Not Found  ✅                                     |
 |   8       |   ~~Robomaniac~~                                          |
 
 
@@ -35,24 +37,24 @@
 |   No.     |      Team name                                        |    
 |:---------:|:------------------------------------------------------|   
 |   1       |   ~~Robomaniac~~                                          |
-|   2       |   404 Not Found (PASSED)                                       |
-|   3       |   SEA (PASSED)                                             |
-|   4       |   SKUBA JR. (PASSED)                                          |
+|   2       |   404 Not Found ✅                                       |
+|   3       |   SEA ✅                                             |
+|   4       |   SKUBA JR. ✅                                          |
 |   5       |   CLEANING IN PROGRESS                                |
 |   6       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
 |   7       |  ~~LOSSY~~                                                | 
-|   8       | นกคุ้มหลี (PASSED)                                                  |  
+|   8       | นกคุ้มหลี ✅                                                  |  
 
 ## Trial 3 [17:00 - 18:30]
 
 |   No.     |      Team name                                        |    
 |:---------:|:------------------------------------------------------|   
-|   1       |    นกคุ้มหลี (PASSED)                                            |  
-|   2       |    LOSSY  (PASSED)                                             | 
+|   1       |    นกคุ้มหลี ✅                                            |  
+|   2       |    LOSSY  ✅                                             | 
 |   3       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
-|   4       |   CLEANING IN PROGRESS  (PASSED)                               |
-|   5       |   SKUBA JR.  (PASSED)                                          |
-|   6       |   SEA   (PASSED)                                               |
+|   4       |   CLEANING IN PROGRESS  ✅                               |
+|   5       |   SKUBA JR.  ✅                                          |
+|   6       |   SEA   ✅                                               |
 |   7       |   ~~404 Not Found~~                                       |
-|   8       |   Robomaniac   (PASSED)                                       |
+|   8       |   Robomaniac   ✅                                       |
 
