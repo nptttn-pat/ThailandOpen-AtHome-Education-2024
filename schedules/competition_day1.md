@@ -40,7 +40,7 @@
 |   2       |   404 Not Found ✅                                       |
 |   3       |   SEA ✅                                             |
 |   4       |   SKUBA JR. ✅                                          |
-|   5       |   CLEANING IN PROGRESS                                |
+|   5       |   CLEANING IN PROGRESS ✅                               |
 |   6       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
 |   7       |  ~~LOSSY~~                                                | 
 |   8       | นกคุ้มหลี ✅                                                  |  
