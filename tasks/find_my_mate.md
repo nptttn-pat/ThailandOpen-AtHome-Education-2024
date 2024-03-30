@@ -22,4 +22,4 @@
    ![fmm-map](./img/fmm_map.png)
 
 ## Generator
-[fmm_gen](../fmm_generator/)
+- [Find my mate generator](../fmm_generator/)
