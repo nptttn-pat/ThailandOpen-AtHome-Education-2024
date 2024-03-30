@@ -24,7 +24,7 @@
 |   4       |   ~~CLEANING IN PROGRESS~~                                |
 |   5       |   SKUBA JR. (PASSED)                                  |
 |   6       |   SEA (PASSED)                                                |
-|   7       |   404 Not Found                                       |
+|   7       |   404 Not Found  (PASSED)                                     |
 |   8       |   Robomaniac                                          |
 
 
