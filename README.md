@@ -4,6 +4,7 @@
 
 # Score
 - [Carry my luggage](./score/cml.md)
+- [Find my mate](./score/fmm.md)
 - [Overall](./score/overall.md)
 - [Ranking](./score/ranking.md)
 
