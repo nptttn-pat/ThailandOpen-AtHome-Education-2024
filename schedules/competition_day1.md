@@ -49,7 +49,7 @@
 |   2       |    LOSSY  (PASSED)                                             | 
 |   3       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
 |   4       |   CLEANING IN PROGRESS  (PASSED)                               |
-|   5       |   SKUBA JR.                                           |
+|   5       |   SKUBA JR.  (PASSED)                                          |
 |   6       |   SEA                                                 |
 |   7       |   ~~404 Not Found~~                                       |
 |   8       |   Robomaniac                                          |
