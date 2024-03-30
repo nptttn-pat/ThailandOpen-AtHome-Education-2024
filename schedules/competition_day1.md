@@ -52,5 +52,5 @@
 |   5       |   SKUBA JR.  (PASSED)                                          |
 |   6       |   SEA   (PASSED)                                               |
 |   7       |   ~~404 Not Found~~                                       |
-|   8       |   Robomaniac                                          |
+|   8       |   Robomaniac   (PASSED)                                       |
 
