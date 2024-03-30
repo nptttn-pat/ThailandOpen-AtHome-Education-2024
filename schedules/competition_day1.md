@@ -37,7 +37,7 @@
 |   3       |   SEA (PASSED)                                             |
 |   4       |   SKUBA JR. (PASSED)                                          |
 |   5       |   CLEANING IN PROGRESS                                |
-|   6       |  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
+|   6       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
 |   7       |  ~~LOSSY~~                                                | 
 |   8       | นกคุ้มหลี                                                |  
 
