@@ -22,7 +22,7 @@
 |   2       |    ~~LOSSY~~                                              | 
 |   3       |  ~~ขี้เกียจทำงานบ้าน Lazy to do house work Team~~            |
 |   4       |   ~~CLEANING IN PROGRESS~~                                |
-|   5       |   SKUBA JR.                                           |
+|   5       |   SKUBA JR. (PASSED)                                  |
 |   6       |   SEA                                                 |
 |   7       |   404 Not Found                                       |
 |   8       |   Robomaniac                                          |
