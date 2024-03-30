@@ -23,3 +23,5 @@
 
 ## Generator
 - [Find my mate generator](../fmm_generator/)
+   Output example
+   ![example output](../fmm_generator/example.png)
