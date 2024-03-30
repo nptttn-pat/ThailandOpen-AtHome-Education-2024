@@ -1,7 +1,5 @@
 # Carry my luggage's score
 
-** <em> Score will release after Team Leader Meeting of that day </em> **
-
 ## University league
 
 |      Team name              |    Trial 1        |     Trial 2     |       Trial 3     |   Best trial       |
