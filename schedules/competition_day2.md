@@ -1,5 +1,7 @@
 # Day 2 [Sun 31 Mar] - Find my mate
 
+<em> * Team name with strikethrough (~~team_name~~) is mean that team waive their slot </em>
+
 ## Time table
 
 |   Time              |     Topics                                  |
