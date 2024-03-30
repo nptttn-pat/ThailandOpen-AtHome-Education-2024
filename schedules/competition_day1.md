@@ -46,8 +46,8 @@
 |   No.     |      Team name                                        |    
 |:---------:|:------------------------------------------------------|   
 |   1       |    นกคุ้มหลี (PASSED)                                            |  
-|   2       |    LOSSY                                              | 
-|   3       |  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
+|   2       |    LOSSY  (PASSED)                                             | 
+|   3       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
 |   4       |   CLEANING IN PROGRESS                                |
 |   5       |   SKUBA JR.                                           |
 |   6       |   SEA                                                 |
