@@ -48,7 +48,7 @@
 |   1       |    นกคุ้มหลี (PASSED)                                            |  
 |   2       |    LOSSY  (PASSED)                                             | 
 |   3       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
-|   4       |   CLEANING IN PROGRESS                                |
+|   4       |   CLEANING IN PROGRESS  (PASSED)                               |
 |   5       |   SKUBA JR.                                           |
 |   6       |   SEA                                                 |
 |   7       |   ~~404 Not Found~~                                       |
