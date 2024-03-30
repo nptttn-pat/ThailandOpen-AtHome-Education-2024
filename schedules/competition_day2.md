@@ -15,40 +15,40 @@
 
 ## Trial 1 [10:30 - 12:10]
 
-|      Team name                                            |    
-|:---------------------------------------------------------:|   
-|       LOSSY                                               |  
-|       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
-|       SKUBA JR.                                           |
-|       นกคุ้มหลี                                              |
-|       CLEANING IN PROGRESS                                |
-|       SEA                                                 |
-|       404 Not Found                                       |
-|       Robomaniac                                          |
+|   No.     |      Team name                                            |    
+|:---------:|:---------------------------------------------------------|   
+|     1     |       LOSSY                                               |  
+|     2     |       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
+|     3     |       SKUBA JR.                                           |
+|     4     |       นกคุ้มหลี                                              |
+|     5     |       CLEANING IN PROGRESS                                |
+|     6     |       SEA                                                 |
+|     7     |       404 Not Found                                       |
+|     8     |       Robomaniac                                          |
 
 
 ## Trial 2 [13:00 - 14:40]
 
-|      Team name                                            |    
-|:---------------------------------------------------------:|   
-|       Robomaniac                                          |
-|       404 Not Found                                       |
-|       SEA                                                 |
-|       CLEANING IN PROGRESS                                |
-|       นกคุ้มหลี                                              |
-|       SKUBA JR.                                           |
-|       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
-|       LOSSY                                               |  
+|   No.     |      Team name                                            |    
+|:---------:|:---------------------------------------------------------|   
+|     1     |       Robomaniac                                          |
+|     2     |       404 Not Found                                       |
+|     3     |       SEA                                                 |
+|     4     |       CLEANING IN PROGRESS                                |
+|     5     |       นกคุ้มหลี                                              |
+|     6     |       SKUBA JR.                                           |
+|     7     |       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
+|     8     |       LOSSY                                               |  
 
 ## Trial 3 [15:00 - 16:40]
 
-|      Team name                                            |    
-|:---------------------------------------------------------:|   
-|       LOSSY                                               |  
-|       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
-|       SKUBA JR.                                           |
-|       นกคุ้มหลี                                              |
-|       CLEANING IN PROGRESS                                |
-|       SEA                                                 |
-|       404 Not Found                                       |
-|       Robomaniac                                          |
+|   No.     |      Team name                                            |    
+|:---------:|:---------------------------------------------------------|   
+|     1     |       LOSSY                                               |  
+|     2     |       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
+|     3     |       SKUBA JR.                                           |
+|     4     |       นกคุ้มหลี                                              |
+|     5     |       CLEANING IN PROGRESS                                |
+|     6     |       SEA                                                 |
+|     7     |       404 Not Found                                       |
+|     8     |       Robomaniac                                          |
