@@ -1,6 +1,6 @@
 # Day 1 [Sat 30 Mar] - Carry my luggages
 
-<em> * Team name with strikethrough (~~team_name~~) is mean that team waive their slot </em>
+<em> * Team name with strikethrough (~~team_name~~) is mean that they waive their slot </em>
 
 ## Time table
 
