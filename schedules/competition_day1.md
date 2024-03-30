@@ -38,7 +38,7 @@
 |   4       |   SKUBA JR. (PASSED)                                          |
 |   5       |   CLEANING IN PROGRESS                                |
 |   6       |  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
-|   7       |  LOSSY                                                | 
+|   7       |  ~~LOSSY~~                                                | 
 |   8       | นกคุ้มหลี                                                |  
 
 ## Trial 3 [17:00 - 18:30]
