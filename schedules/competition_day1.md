@@ -25,7 +25,7 @@
 |   5       |   SKUBA JR. (PASSED)                                  |
 |   6       |   SEA (PASSED)                                                |
 |   7       |   404 Not Found  (PASSED)                                     |
-|   8       |   Robomaniac                                          |
+|   8       |   ~~Robomaniac~~                                          |
 
 
 ## Trial 2 [14:00 - 15:30]
