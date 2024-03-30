@@ -16,41 +16,41 @@
 
 ## Trial 1 [11:00 - 12:30]
 
-|      Team name                                        |    
-|:-------------------------------------------------------:|   
-| นกคุ้มหลี                                                |  
-|  LOSSY                                                | 
-|  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
-|   CLEANING IN PROGRESS                                |
-|   SKUBA JR.                                           |
-|   SEA                                                 |
-|   404 Not Found                                       |
-|   Robomaniac                                          |
+|   No.     |      Team name                                        |    
+|:---------:|:------------------------------------------------------|   
+|   1       |    นกคุ้มหลี                                             |  
+|   2       |    LOSSY                                              | 
+|   3       |  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
+|   4       |   CLEANING IN PROGRESS                                |
+|   5       |   SKUBA JR.                                           |
+|   6       |   SEA                                                 |
+|   7       |   404 Not Found                                       |
+|   8       |   Robomaniac                                          |
 
 
 ## Trial 2 [14:00 - 15:30]
 
-|      Team name                                        |    
-|:-------------------------------------------------------:|   
-|   Robomaniac                                          |
-|   404 Not Found                                       |
-|   SEA                                                 |
-|   SKUBA JR.                                           |
-|   CLEANING IN PROGRESS                                |
-|  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
-|  LOSSY                                                | 
-| นกคุ้มหลี                                                |  
+|   No.     |      Team name                                        |    
+|:---------:|:------------------------------------------------------|   
+|   1       |   Robomaniac                                          |
+|   2       |   404 Not Found                                       |
+|   3       |   SEA                                                 |
+|   4       |   SKUBA JR.                                           |
+|   5       |   CLEANING IN PROGRESS                                |
+|   6       |  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
+|   7       |  LOSSY                                                | 
+|   8       | นกคุ้มหลี                                                |  
 
 ## Trial 3 [17:00 - 18:30]
 
-|      Team name                                        |    
-|:-------------------------------------------------------:|   
-| นกคุ้มหลี                                                |  
-|  LOSSY                                                | 
-|  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
-|   CLEANING IN PROGRESS                                |
-|   SKUBA JR.                                           |
-|   SEA                                                 |
-|   404 Not Found                                       |
-|   Robomaniac                                          |
+|   No.     |      Team name                                        |    
+|:---------:|:------------------------------------------------------|   
+|   1       |    นกคุ้มหลี                                             |  
+|   2       |    LOSSY                                              | 
+|   3       |  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
+|   4       |   CLEANING IN PROGRESS                                |
+|   5       |   SKUBA JR.                                           |
+|   6       |   SEA                                                 |
+|   7       |   404 Not Found                                       |
+|   8       |   Robomaniac                                          |
 
