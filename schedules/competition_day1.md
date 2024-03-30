@@ -50,7 +50,7 @@
 |   3       |  ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~            |
 |   4       |   CLEANING IN PROGRESS  (PASSED)                               |
 |   5       |   SKUBA JR.  (PASSED)                                          |
-|   6       |   SEA                                                 |
+|   6       |   SEA   (PASSED)                                               |
 |   7       |   ~~404 Not Found~~                                       |
 |   8       |   Robomaniac                                          |
 
