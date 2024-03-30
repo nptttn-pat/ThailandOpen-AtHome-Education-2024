@@ -34,7 +34,7 @@
 |:---------:|:------------------------------------------------------|   
 |   1       |   ~~Robomaniac~~                                          |
 |   2       |   404 Not Found (PASSED)                                       |
-|   3       |   SEA                                                 |
+|   3       |   SEA (PASSED)                                                 |
 |   4       |   SKUBA JR.                                           |
 |   5       |   CLEANING IN PROGRESS                                |
 |   6       |  ขี้เกียจทำงานบ้าน Lazzy to do house work Team            |
