@@ -36,7 +36,7 @@
 |   No.     |      Team name                                            |    
 |:---------:|:---------------------------------------------------------|   
 |     1     |       Robomaniac ✅                                        |
-|     2     |       404 Not Found                                       |
+|     2     |       404 Not Found ✅                                     |
 |     3     |       SEA (Bonus requested)                               |
 |     4     |       CLEANING IN PROGRESS                                |
 |     5     |       นกคุ้มหลี                                              |
