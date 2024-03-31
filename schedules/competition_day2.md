@@ -39,7 +39,7 @@
 |     2     |       404 Not Found ✅                                     |
 |     3     |       SEA (Bonus requested) ✅                             |
 |     4     |       CLEANING IN PROGRESS  ✅                             |
-|     5     |       นกคุ้มหลี                                              |
+|     5     |       นกคุ้มหลี  ✅                                           |
 |     6     |       SKUBA JR.                                           |
 |     7     |       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
 |     8     |       LOSSY                                               |  
