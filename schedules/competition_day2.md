@@ -22,7 +22,7 @@
 |   No.     |      Team name                                            |    
 |:---------:|:---------------------------------------------------------|   
 |     1     |       LOSSY                                               |  
-|     2     |       ขี้เกียจทำงานบ้าน Lazzy to do house work Team           | 
+|     2     |       ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~           | 
 |     3     |       SKUBA JR.                                           |
 |     4     |       นกคุ้มหลี                                              |
 |     5     |       CLEANING IN PROGRESS                                |
