@@ -5,9 +5,9 @@
 |      Team name              |    Trial 1        |     Trial 2     |       Trial 3     |   Best trial       |
 |:----------------------------|:-----------------:|:---------------:|:-----------------:|:------------------:|   
 |   CLEANING IN PROGRESS      |                   |                 |                   |                    |
-|   LOSSY                     |                   |                 |                   |                    |
+|   LOSSY                     |       0           |                 |                   |                    |
 |   Robomaniac                |                   |                 |                   |                    |
-|   SKUBA JR.                 |                   |                 |                   |                    |
+|   SKUBA JR.                 |     200           |                 |                   |                    |
 
 ## High-School league
 
