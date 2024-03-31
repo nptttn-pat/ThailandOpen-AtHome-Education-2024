@@ -26,7 +26,7 @@
 |     3     |       SKUBA JR. ✅                                         |
 |     4     |       นกคุ้มหลี ✅                                            |
 |     5     |       ~~CLEANING IN PROGRESS~~                              |
-|     6     |       SEA                                                 |
+|     6     |       SEA  ✅                                              |
 |     7     |       404 Not Found                                       |
 |     8     |       Robomaniac                                          |
 
