@@ -6,8 +6,8 @@
 |:-----------------:|:----------------------------|:------------------------|
 |          1        |   SKUBA JR.                 |           650           |
 |          2        |   CLEANING IN PROGRESS      |           100           |
+|          4        |   Robomaniac                |           100           |
 |          3        |   LOSSY                     |            50           | 
-|          4        |   Robomaniac                |             0           |
 
 ## High-School league
 
