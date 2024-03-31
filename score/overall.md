@@ -9,7 +9,7 @@
 |   CLEANING IN PROGRESS      |     100       |      0      |        100        |
 |   LOSSY                     |       0       |     50      |         50        |
 |   Robomaniac                |     100       |      0      |        100        |
-|   SKUBA JR.                 |     400       |    250      |        400        |
+|   SKUBA JR.                 |     400       |    250      |        650        |
 
 ## High-School league
 

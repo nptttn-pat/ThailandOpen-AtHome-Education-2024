@@ -4,7 +4,7 @@
 
 |       Rank 🏆     |      Team name              |         Overalll score  |
 |------------------:|:----------------------------|:------------------------|
-|          1        |   SKUBA JR.                 |           400           |
+|          1        |   SKUBA JR.                 |           650           |
 |          2        |   CLEANING IN PROGRESS      |           100           |
 |          3        |   LOSSY                     |            50           | 
 |          4        |   Robomaniac                |             0           |
