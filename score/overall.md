@@ -6,16 +6,16 @@
 
 |      Team name              |    CML        |     FMM     |       Overall     |
 |:----------------------------|:-------------:|:-----------:|:-----------------:|   
-|   CLEANING IN PROGRESS      |               |             |                   |
-|   LOSSY                     |               |             |                   |
-|   Robomaniac                |               |             |                   |
-|   SKUBA JR.                 |               |             |                   |
+|   CLEANING IN PROGRESS      |     100       |             |        100        |
+|   LOSSY                     |       0       |             |          0        |
+|   Robomaniac                |     100       |             |        100        |
+|   SKUBA JR.                 |     400       |             |        400        |
 
 ## High-School league
 
 |      Team name                                |    CML        |     FMM     |       Overall     |
 |:----------------------------------------------|:-------------:|:-----------:|:-----------------:|    
-|   404 Not Found                               |               |             |                   |
-|   SEA                                         |               |             |                   |
-|   ขี้เกียจทำงานบ้าน Lazzy to do house work Team   |               |             |                   |
-|   นกคุ้มหลี                                      |               |             |                   |
+|   404 Not Found                               |     300       |             |         300       |
+|   SEA                                         |     200       |             |         200       |
+|   ขี้เกียจทำงานบ้าน Lazzy to do house work Team   |       0       |             |           0       |
+|   นกคุ้มหลี                                      |       0       |             |           0       |
