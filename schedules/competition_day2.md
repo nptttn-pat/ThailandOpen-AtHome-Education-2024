@@ -42,7 +42,7 @@
 |     5     |       นกคุ้มหลี  ✅                                           |
 |     6     |       SKUBA JR. ✅                                         |
 |     7     |       ~~ขี้เกียจทำงานบ้าน Lazzy to do house work Team~~           | 
-|     8     |       LOSSY                                               |  
+|     8     |       LOSSY  ✅                                            |  
 
 ## Trial 3 [15:00 - 16:40]
 
