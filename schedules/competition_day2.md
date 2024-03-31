@@ -28,7 +28,7 @@
 |     5     |       ~~CLEANING IN PROGRESS~~                              |
 |     6     |       SEA  ✅                                              |
 |     7     |       404 Not Found  ✅                                    |
-|     8     |       Robomaniac                                          |
+|     8     |       Robomaniac ✅                                        |
 
 
 ## Trial 2 [13:00 - 14:40]
@@ -37,7 +37,7 @@
 |:---------:|:---------------------------------------------------------|   
 |     1     |       Robomaniac                                          |
 |     2     |       404 Not Found                                       |
-|     3     |       SEA                                                 |
+|     3     |       SEA (Bonus requested)                               |
 |     4     |       CLEANING IN PROGRESS                                |
 |     5     |       นกคุ้มหลี                                              |
 |     6     |       SKUBA JR.                                           |
